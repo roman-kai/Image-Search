@@ -1,0 +1,84 @@
+{
+12-06 06:51:25.888    2532-2545/test.rmbk.com.imagesearch I/System.out? "kind": "customsearch#search",
+12-06 06:51:25.892    2532-2545/test.rmbk.com.imagesearch I/System.out? "url": {
+12-06 06:51:25.896    2532-2545/test.rmbk.com.imagesearch I/System.out? "type": "application/json",
+12-06 06:51:25.904    2532-2545/test.rmbk.com.imagesearch I/System.out? "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+12-06 06:51:25.904    2532-2545/test.rmbk.com.imagesearch I/System.out? },
+12-06 06:51:25.908    2532-2545/test.rmbk.com.imagesearch I/System.out? "queries": {
+12-06 06:51:25.912    2532-2545/test.rmbk.com.imagesearch I/System.out? "nextPage": [
+12-06 06:51:25.916    2532-2545/test.rmbk.com.imagesearch I/System.out? {
+12-06 06:51:25.916    2532-2545/test.rmbk.com.imagesearch I/System.out? "title": "Google Custom Search - topkek",
+12-06 06:51:25.920    2532-2545/test.rmbk.com.imagesearch I/System.out? "totalResults": "1150000",
+12-06 06:51:25.924    2532-2545/test.rmbk.com.imagesearch I/System.out? "searchTerms": "topkek",
+12-06 06:51:25.924    2532-2545/test.rmbk.com.imagesearch I/System.out? "count": 10,
+12-06 06:51:25.924    2532-2545/test.rmbk.com.imagesearch I/System.out? "startIndex": 11,
+12-06 06:51:25.924    2532-2545/test.rmbk.com.imagesearch I/System.out? "inputEncoding": "utf8",
+12-06 06:51:25.924    2532-2545/test.rmbk.com.imagesearch I/System.out? "outputEncoding": "utf8",
+12-06 06:51:25.924    2532-2545/test.rmbk.com.imagesearch I/System.out? "safe": "off",
+12-06 06:51:25.924    2532-2545/test.rmbk.com.imagesearch I/System.out? "cx": "006227774635939620012:n_itghgx1km",
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? "searchType": "image"
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? }
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? ],
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? "request": [
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? {
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? "title": "Google Custom Search - topkek",
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? "totalResults": "1150000",
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? "searchTerms": "topkek",
+12-06 06:51:25.928    2532-2545/test.rmbk.com.imagesearch I/System.out? "count": 10,
+12-06 06:51:25.932    2532-2545/test.rmbk.com.imagesearch I/System.out? "startIndex": 1,
+12-06 06:51:25.932    2532-2545/test.rmbk.com.imagesearch I/System.out? "inputEncoding": "utf8",
+12-06 06:51:25.932    2532-2545/test.rmbk.com.imagesearch I/System.out? "outputEncoding": "utf8",
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? "safe": "off",
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? "cx": "006227774635939620012:n_itghgx1km",
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? "searchType": "image"
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? }
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? ]
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? },
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? "context": {
+12-06 06:51:25.936    2532-2545/test.rmbk.com.imagesearch I/System.out? "title": "imageobjects_search"
+12-06 06:51:25.940    2532-2545/test.rmbk.com.imagesearch I/System.out? },
+12-06 06:51:25.940    2532-2545/test.rmbk.com.imagesearch I/System.out? "searchInformation": {
+12-06 06:51:25.940    2532-2545/test.rmbk.com.imagesearch I/System.out? "searchTime": 0.361515,
+12-06 06:51:25.940    2532-2545/test.rmbk.com.imagesearch I/System.out? "formattedSearchTime": "0.36",
+12-06 06:51:25.944    2532-2545/test.rmbk.com.imagesearch I/System.out? "totalResults": "1150000",
+12-06 06:51:25.948    2532-2545/test.rmbk.com.imagesearch I/System.out? "formattedTotalResults": "1,150,000"
+12-06 06:51:25.952    2532-2545/test.rmbk.com.imagesearch I/System.out? },
+12-06 06:51:25.956    2532-2545/test.rmbk.com.imagesearch I/System.out? "items": [
+12-06 06:51:25.956    2532-2545/test.rmbk.com.imagesearch I/System.out? {
+12-06 06:51:25.960    2532-2545/test.rmbk.com.imagesearch I/System.out? "kind": "customsearch#result",
+12-06 06:51:25.964    2532-2545/test.rmbk.com.imagesearch I/System.out? "title": "TOP KEK.AVI - YouTube",
+12-06 06:51:25.964    2532-2545/test.rmbk.com.imagesearch I/System.out? "htmlTitle": "\u003cb\u003eTOP KEK\u003c/b\u003e.AVI - YouTube",
+12-06 06:51:25.968    2532-2545/test.rmbk.com.imagesearch I/System.out? "link": "https://i.ytimg.com/vi/RKJ2CeVEzPo/maxresdefault.jpg",
+12-06 06:51:25.972    2532-2545/test.rmbk.com.imagesearch I/System.out? "displayLink": "www.youtube.com",
+12-06 06:51:25.972    2532-2545/test.rmbk.com.imagesearch I/System.out? "snippet": "TOP KEK.AVI",
+12-06 06:51:25.976    2532-2545/test.rmbk.com.imagesearch I/System.out? "htmlSnippet": "\u003cb\u003eTOP KEK\u003c/b\u003e.AVI",
+12-06 06:51:25.980    2532-2545/test.rmbk.com.imagesearch I/System.out? "mime": "image/jpeg",
+12-06 06:51:25.984    2532-2545/test.rmbk.com.imagesearch I/System.out? "image": {
+12-06 06:51:25.988    2532-2545/test.rmbk.com.imagesearch I/System.out? "contextLink": "https://www.youtube.com/watch?v=RKJ2CeVEzPo",
+12-06 06:51:25.992    2532-2545/test.rmbk.com.imagesearch I/System.out? "height": 720,
+12-06 06:51:25.992    2532-2545/test.rmbk.com.imagesearch I/System.out? "width": 1280,
+12-06 06:51:25.996    2532-2545/test.rmbk.com.imagesearch I/System.out? "byteSize": 27763,
+12-06 06:51:26.000    2532-2545/test.rmbk.com.imagesearch I/System.out? "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeLNG8BKlS7unaEJhNLHLeR04EV9hW-rhCB0fVJ7C56kqofNJGgqu1urzI",
+12-06 06:51:26.000    2532-2545/test.rmbk.com.imagesearch I/System.out? "thumbnailHeight": 84,
+12-06 06:51:26.004    2532-2545/test.rmbk.com.imagesearch I/System.out? "thumbnailWidth": 150
+12-06 06:51:26.008    2532-2545/test.rmbk.com.imagesearch I/System.out? }
+12-06 06:51:26.012    2532-2545/test.rmbk.com.imagesearch I/System.out? },
+12-06 06:51:26.012    2532-2545/test.rmbk.com.imagesearch I/System.out? {
+12-06 06:51:26.016    2532-2545/test.rmbk.com.imagesearch I/System.out? "kind": "customsearch#result",
+12-06 06:51:26.020    2532-2545/test.rmbk.com.imagesearch I/System.out? "title": "Top kek - Whisper",
+12-06 06:51:26.020    2532-2545/test.rmbk.com.imagesearch I/System.out? "htmlTitle": "\u003cb\u003eTop kek\u003c/b\u003e - Whisper",
+12-06 06:51:26.020    2532-2545/test.rmbk.com.imagesearch I/System.out? "link": "https://cdn-webimages.wimages.net/0519ddb7bfda5a823898e13348956e0bb2c570-wm.jpg",
+12-06 06:51:26.024    2532-2545/test.rmbk.com.imagesearch I/System.out? "displayLink": "whisper.sh",
+12-06 06:51:26.028    2532-2545/test.rmbk.com.imagesearch I/System.out? "snippet": "Top kek",
+12-06 06:51:26.032    2532-2545/test.rmbk.com.imagesearch I/System.out? "htmlSnippet": "\u003cb\u003eTop kek\u003c/b\u003e",
+12-06 06:51:26.036    2532-2545/test.rmbk.com.imagesearch I/System.out? "mime": "image/jpeg",
+12-06 06:51:26.036    2532-2545/test.rmbk.com.imagesearch I/System.out? "image": {
+12-06 06:51:26.040    2532-2545/test.rmbk.com.imagesearch I/System.out? "contextLink": "https://whisper.sh/whisper/0519ddb7bfda5a823898e13348956e0bb2c570/Top-kek",
+12-06 06:51:26.040    2532-2545/test.rmbk.com.imagesearch I/System.out? "height": 920,
+12-06 06:51:26.040    2532-2545/test.rmbk.com.imagesearch I/System.out? "width": 640,
+12-06 06:51:26.040    2532-2545/test.rmbk.com.imagesearch I/System.out? "byteSize": 118608,
+12-06 06:51:26.044    2532-2545/test.rmbk.com.imagesearch I/System.out? "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeNXsT-Ewmhqxvdg-WNBBo0CUBDb4QS3aW9K6CSJfsphqo82lXrrcuEt4",
+12-06 06:51:26.048    2532-2545/test.rmbk.com.imagesearch I/System.out? "thumbnailHeight": 147,
+12-06 06:51:26.052    2532-2545/test.rmbk.com.imagesearch I/System.out? "thumbnailWidth": 102
+12-06 06:51:26.056    2532-2545/test.rmbk.com.imagesearch I/System.out? }
+12-06 06:51:26.060    2532-2545/test.rmbk.com.imagesearch I/System.out? },
